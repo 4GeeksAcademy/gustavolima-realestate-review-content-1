@@ -1,29 +1,16 @@
 <!--hide-->
-# Real Estate Prework Final project
+# Data Cleaning, Data Preparation and SQL
 <!--endhide-->
 
-Finally, you already have all the necessary knowledge to prepare a real dataset to later train a machine learning model, which you will learn throughout the bootcamp.
+Data Cleaning and Data Preparation are two key tasks in Data Science world to later be able to train models. 
+Using Pandas and Seaborn / Matplotlib I've analyzed the data and proceed to clean it and prepare it for later use it on a training a Machine Learn Model. 
+As a safety precaution, but also for easier access of Data to thirds, I've created a SQL database with all the data from the Dataset, as a good practice. 
 
-It is intended that you apply all the knowledge learned with the other Numpy, Pandas, Matplotlib notebooks, and even openCV that we will delve into later.
+## 📒 Key Takes
 
-Feel free to add any additional analysis that you consider necessary and that is not raised in the questions.
+Data Cleaning and Preparation is a very important task to perform on any data. There's not a "one-key-does-it-all" method, plus we have to take in fact that human subjectivity and how one perceived the data will play into the process. For me the key is to be the most unbiased possible, but when in doubt search for answers with professionals of the area, or investigating in to available resources to take the most possible correct interpretation of the data in the real world. Especially with Outliers like we can see below represented by the dots. 
 
-## 🌱  How to start this project
+<img src="https://github.com/4GeeksAcademy/gustavolima-realestate-review-content-1/blob/main/assets/outliers.png" width="500">
 
-This project and its repository comes with the necessary files to start working.
+All in all, Cleaning and Preparing the data are fundamental steps, which are key tasks for any Data Scientist who want to train Models. 
 
-We recommend opening this very same repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-
-This is the repository you need to open:
-
-```txt
-https://github.com/4GeeksAcademy/realestate-review-content
-```
-
-**👉 Please follow these steps on** [how to start a project](https://4geeks.com/lesson/how-to-start-a-project).
-
-## 📝 Instructions:
-
-Open the file `./project.ipynb` that contains a series of exercises, complete each of the exercises one by one.
-
-> Note: This exercise is **not** automatically graded.
